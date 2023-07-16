@@ -1,3 +1,6 @@
+# connection string
+Secrets.json
+
 # globs
 Makefile.in
 *.userprefs
